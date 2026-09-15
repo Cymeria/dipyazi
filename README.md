@@ -40,7 +40,7 @@ Whisper tabanlı, PyQt6 ile geliştirilmiş masaüstü altyazı oluşturma ve d�
 
 ```bash
 # Depoyu klonlayın
-git clone https://github.com/KULLANICI-ADI/dipyazi.git
+git clone https://github.com/Cymeria/dipyazi.git
 cd dipyazi
 
 # Sanal ortam oluşturun (önerilen)
@@ -150,11 +150,11 @@ Türkçe, İngilizce, Almanca, Fransızca, İspanyolca, İtalyanca, Portekizce, 
 
 ### Kaynak Kodu
 ```bash
-git clone https://github.com/KULLANICI-ADI/dipyazi.git
+git clone https://github.com/Cymeria/dipyazi.git
 ```
 
 ### Hazır Sürümler
-[Releases](https://github.com/KULLANICI-ADI/dipyazi/releases) sayfasından en son sürümü indirebilirsiniz.
+[Releases](https://github.com/Cymeria/dipyazi/releases) sayfasından en son sürümü indirebilirsiniz.
 
 - **Dipyazi-Setup.exe** - Kurulum dosyası
 - **Dipyazi-Portable.zip** - Taşınabilir sürüm (kurulum gerektirmez)
