@@ -1,0 +1,14 @@
+{
+  "font": "Calibri",
+  "size": 72,
+  "color": "#FFFFFF",
+  "outline_color": "#000000",
+  "outline": 2,
+  "shadow": 4,
+  "bold": true,
+  "italic": false,
+  "underline": false,
+  "alignment": 2,
+  "margin_v": 30,
+  "window_geometry": "01d9d0cb00030000000001c10000000000000738000003a2000001c10000001f00000738000003a200000000000000000780000001c10000001f00000738000003a2"
+}
